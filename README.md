@@ -1,2 +1,2 @@
 # algorithms_on_py
-# Here are some of algorithms that I use during my "Algorithms and Data Structures course" and "Basics of Programming course"
+# Here are some algorithms that I have used on my "Algorithms and Data Structures" coruse and "Basics of Programming" course
