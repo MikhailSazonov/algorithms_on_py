@@ -1,6 +1,5 @@
 s = input().split()
 a = []
-flag = 0
 for i in range(len(s)):
     if s[i] not in "+-*/":
         a.append(float(s[i]))
